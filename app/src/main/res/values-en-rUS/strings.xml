@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasList_Sandi</string>
+    <string name="darat">Land Beast</string>
+    <string name="air">Water Beast</string>
+    <string name="jdudl">Pedia Animals</string>
+    <string name="pilihgambar">(Select image to open gallery)</string>
+    <string name="beruang">Bear</string>
+    <string name="des_beruang">Bears are animals in the class of mammals belonging to the order Carnivora, family Ursidae.</string>
+    <string name="citah">Cheetah</string>
+    <string name="des_citah">The cheetah is a member of the cat family (Felidae) that hunts prey using speed rather than sneaking or flocking tactics.</string>
+    <string name="harimau">Tiger</string>
+    <string name="des_harimau">The tiger (Panthera tigris) is the largest living cat species of the genus Panthera. Tigers have distinctive stripes on their fur.</string>
+    <string name="macankumbang">Black Panther</string>
+    <string name="des_macankumbang">panther is a subspecies of the leopard that is only found in tropical forests, mountains and conservation areas on the island of Java, Indonesia.</string>
+    <string name="singa">Lion</string>
+    <string name="des_singa">The lion (Sanskrit: Siṃha, or its scientific name Panthera leo) is a species of animal from the family Felidae or cat breed.</string>
+    <string name="buaya">Crocodile</string>
+    <string name="des_buaya">A CROCODILE is an animal that once lived alongside the dinosaurs, but survived the mass extinction and survived to modern times.</string>
+    <string name="hiu">Shark</string>
+    <string name="des_hiu">Sharks are a group (superorder Selachimorpha) of fish with a complete cartilaginous skeleton [1] and a slender body.</string>
+    <string name="pari">Pari</string>
+    <string name="des_pari">The stingray or peh fish is a type of marine fish that has 560 species and belongs to 13 families.</string>
+    <string name="paus">whale</string>
+    <string name="des_paus">Whales or lodans (specifically toothed and not small) are a group of mammals that live in the oceans.</string>
+    <string name="ubur">Jellyfish</string>
+    <string name="des_ubur">Jellyfish are jelly-shaped marine animals that are famous for their stings</string>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">TugasList_Sandi</string>
+
+    <string name="darat">Binatang Darat</string>
+    <string name="air">BInatang Air</string>
+
+    <string name="jdudl">Hewan Pedia</string>
+    <string name="pilihgambar">(Pilih gambar untuk membuka galeri)</string>
+
+    <string name="beruang">Beruang</string>
+    <string name="des_beruang">Beruang adalah binatang dalam kelas mamalia yang tergolong ordo Carnivora, familia Ursidae.</string>
+
+    <string name="citah">Citah</string>
+    <string name="des_citah">Cetah adalah anggota keluarga kucing (Felidae) yang berburu mangsa dengan menggunakan kecepatan dan bukan taktik mengendap-endap atau bergerombol</string>
+
+    <string name="harimau">Harimau</string>
+    <string name="des_harimau">Harimau (Panthera tigris) adalah spesies kucing terbesar yang masih hidup dari genus Panthera. Harimau memiliki ciri loreng yang khas pada bulunya.</string>
+
+    <string name="macankumbang">Macan Kumbang</string>
+    <string name="des_macankumbang">acan kumbang adalah salah satu subspesies dari macan tutul yang hanya ditemukan di hutan tropis, pegunungan dan kawasan konservasi Pulau Jawa, Indonesia.</string>
+
+    <string name="singa">Singa</string>
+    <string name="des_singa">Singa (bahasa Sanskerta : Siṃha, atau nama ilmiahnya Panthera leo) adalah spesies hewan dari keluarga felidae atau jenis kucing.</string>
+
+    <string name="buaya">Buaya</string>
+    <string name="des_buaya">BUAYA adalah hewan yang pernah hidup bersama dinosaurus, tetapi selamat dari kepunahan massal dan bertahan hidup sampai zaman modern sekarang.</string>
+
+    <string name="hiu">Hiu</string>
+    <string name="des_hiu">Ikan Hiu adalah sekelompok (superordo Selachimorpha) ikan dengan kerangka tulang rawan yang lengkap [1] dan tubuh yang ramping.</string>
+
+    <string name="pari">Pari</string>
+    <string name="des_pari">kan pari atau ikan peh adalah jenis ikan laut yang memiliki 560 spesies dan tergolong dalam 13 famili.</string>
+
+    <string name="paus">Paus</string>
+    <string name="des_paus">Paus atau lodan (khusus yang bergigi dan bukan berukuran kecil) adalah kelompok mamalia yang hidup di lautan.</string>
+
+    <string name="ubur">Ubur Ubur</string>
+    <string name="des_ubur">Ubur-ubur adalah hewan laut berbentuk seperti agar-agar yang terkenal dengan sengatannya</string>
+
+</resources>
